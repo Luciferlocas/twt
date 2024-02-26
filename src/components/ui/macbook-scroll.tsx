@@ -80,6 +80,7 @@ export const MacbookScroll = ({
       >
         {title || (
           <>
+            <a className="bg-gray-900 px-4 py-2 rounded-xl absolute top-8 left-[calc(100vw-9em)] text-white text-[0.6em]" target="blank" href="https://github.com/EuclidStellar/twitter-cli-golang">Github</a>
             <div className="text-[4em] underline mb-20 text-gray-700 font-mono">
               TWT
             </div>
