@@ -84,7 +84,7 @@ export const MacbookScroll = ({
             <div className="text-[4em] underline mb-20 text-gray-700 font-mono">
               TWT
             </div>
-            <p className="w-[40em]">
+            <p className="w-[40em]  text-zinc-200">
               Are you bored of opening app and tabs of such huge memory just
               to tweet? Do not worry we got you here is TWT, a twitter for your
               terminal now you can just post your tweet from your terminal...
